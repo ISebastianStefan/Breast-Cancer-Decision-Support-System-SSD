@@ -62,7 +62,7 @@ breast-cancer-decision-support-system-ssd/
 
 ### Clone & install dependencies:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Breast-Cancer-Decision-Support-System-SSD.git
+git clone https://github.com/ISebastianStefan/Breast-Cancer-Decision-Support-System-SSD.git
 cd Breast-Cancer-Decision-Support-System-SSD
 pip install -r requirements.txt
 ```
